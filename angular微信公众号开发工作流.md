@@ -6,6 +6,8 @@
 ngx-weui@9.0.0基础上修改部分bug，该项目我们自己维护
 项目地址: https://github.com/wuqiqiang/ngx-weui
 分支: evm-dev-9.0.0
+* ngrx
+参考地址: https://ngrx.io/docs
 
 ## 测试工具
 * redux-devtools-extension
